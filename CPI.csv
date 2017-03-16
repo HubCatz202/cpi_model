@@ -1,4 +1,4 @@
-Country,Methodology,Total Quota,Survey Length,Incidence,CPI,Language,Max Feasibility,Internet Penetration,Recommended % Online,Translation with Edit,Comment One,Comment Two,Comment Three
+Country,Methodology,Total Quota,Length,Incidence,CPU,Language,Max Feasibility,Internet Penetration,Recommended % Online,Translation with Edit,Comment One,Comment Two,Comment Three
 Argentina,Online ,500,15,0.6,6,Spanish,,0.595,75% Online/25% CAWI,1650,,,
 Argentina,Online ,500,30,0.6,9,Spanish,,0.595,75% Online/25% CAWI,3300,,,
 Australia,Online,200,10,0.2,15,English,,0.888,100% Online,500,,,
